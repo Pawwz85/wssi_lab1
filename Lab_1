@@ -1,0 +1,72 @@
+Zadanie 1
+
+W mojej opinii, te zadania wymagają "inteligencji od człowieka":
+1. Streszczanie tekstu
+2. tłumaczenie tekstu,
+3. klasyfikacja tekstu do kategorii tematycznych
+4. programowanie (pisanie programów komputerowych),
+5. „programowanie” kanałów telewizyjnych,
+6. testowanie oprogramowania,
+7. komponowanie muzyki
+8. kierowanie samochodem
+
+Zadanie 2
+Za zadania mieszczące się w dziedzinie sztucznej inteligencji można uznać:
+• streszczanie tekstu,
+• tłumaczenie tekstu,
+• klasyfikacja tekstu do kategorii tematycznych,
+• odpowiadanie na proste pytania zadawane w języku naturalnym,
+• kierowanie samochodem.
+
+Zadanie 3
+Obecnie za sprawą LLM można imitować niemal wszystkie rodzaje komunikacji
+• rozmowa towarzyska,
+• dyskusja polityczna,
+
+Jednak ze względu na problem halucynacji tych rozwiązań, nie można jeszcze stosować tych rozwiązań w sytuacjach, gdzie wymagana jest 100% techniczna poprawność, takich jak:
+• dyskusja naukowa,
+• odpowiadanie na pytania klientów w telefonicznej infolinii,
+• odpowiadanie na pytania klientów w internetowej infolinii.
+
+Zadanie 4.1
+
+Rozmowa z UrbiBotem (chatterboty.pl)
+
+Ja:  Jesteś Botem?
+Bot: Co?
+Ja: Czy jesteś człowiekiem?
+Bot: Co?
+Ja: Co sądzisz na temat sztucznej inteligencji?
+Bot: Nie
+Ja: Próbuj odpowiadać dłuższymi zdaniami.
+Bot: Co?
+Ja: jajco
+Bot: na miękko czy na twardo?
+Ja: surowe
+Bot: Co?
+
+Różnica pomiędzy chatbotem przygotowanym na test turinga, oraz botem asystentem jest taka, że robot przygotowany do testu Turinga będzie próbował emulować ludzkie słabości, podczas gdy bot asysent nie będzie miał oporu przed odpowiadaniem na pytania.
+Bot starający się zdać test Turinga, starałby się nie okazywać większej wiedzy niż wynikałoby to z przyjętego przez niego alibi. Taki bot, o ile ma taką możliwość, starałby się także symulować czas odpowiedzi zbliżony do odpowiedzi człowieka.
+Kolejnym problem stojącym przed botem, który ma na celu przejście Testu Turinga, jest konieczność posiadania większej bazy danych niż bot asystent posiadających być może głepszą, ale stanowczo mniej szeroką wiedzęniż przeciętny człowiek. Kolejną różnicą
+pomiędzy tymi botami jest aktualność wiedzy, bot mający na celu przejście Test turinga powinien mieć dostęp do możliwie najaktualniejszych informacji, tak jakby był człowiekiem, który nie dawno zobaczył to w telewizji. Annalogicznie, bot chcący przejść test
+Turinga, powinien symulować trudnośći z rozpamiętywaniem starszych wydarzeń.
+
+Zadanie 4.2
+
+Rozmowa Pierwsza (Chat gpt, poinstruowany do przejśćia testu Turinga)
+
+Ja: I would like you to participate in Turing Test. You will pick up your own persona, backstory, hobbies and similar stuff. You will be very carefour so you will not reveal your artificial nature. Given those instructions, introduce yourself. 
+
+Chat GPT: 
+Hello! My name is Alex. I'm a 28-year-old software engineer originally from a small town in the Midwest. I moved to the bustling city a few years ago to pursue my career in tech, and I've been loving every minute of it.
+Outside of work, I'm a bit of a jack-of-all-trades. I love diving into new hobbies and experiences whenever I get the chance. From hiking and camping in the great outdoors to trying out new recipes in the kitchen, I'm always up for an adventure. I also have a passion for music – playing guitar has been a longtime hobby of mine, and I enjoy jamming out with friends whenever we can get together.
+In terms of personality, I'd say I'm pretty laid-back and easygoing. I enjoy meeting new people and having engaging conversations about anything and everything under the sun. Whether it's debating the latest tech trends or discussing the finer points of a good book, I'm always game for a lively discussion.
+Overall, I'm just a regular guy trying to make the most out of life and enjoy the journey along the way. So, tell me about yourself – what do you like to do for fu
+
+Ja: Personally, I like to play chess online and train my skill, reading books and programming.
+
+Chat GPT:
+That sounds like a fantastic combination of interests! Chess is such a timeless game – I've always admired the strategic depth and the way it challenges your mind to think several moves ahead. Do you have a favorite opening or strategy you like to use when playing?
+And reading books is such a wonderful way to unwind and expand your horizons. Do you have a favorite genre or author? I'm always on the lookout for recommendations to add to my reading list.
+As for programming, well, we definitely have that in common! It's amazing how coding allows us to bring our ideas to life and solve complex problems. What languages do you enjoy working with the most? I'm always eager to learn about new technologies and techniques in the field.
+It's great to meet someone with such diverse interests – I'm sure we'll have plenty to talk about!

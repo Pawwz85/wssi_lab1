@@ -195,3 +195,119 @@ CleverBot: No, I am Confused
 Ja: Hello Confused, I am Dad
 CleverBot: You are Insane
 Ja: Hello Confused, I am Insane
+CleverBot: That's good one.
+
+
+Rozmowa czwarta (https://www.personalityforge.com bot: Bildgesmythe)
+
+Bildgesmythe: I've been looking for dorm for days.
+Ja: I hope you will find something
+Bildgesmythe: It was not that hard to find.
+Ja: Great to hear that, how much is your rent?
+Bildgesmythe: How much do you need.
+Ja: I am not your Landlord lol
+Bildgesmythe: Well, you should be, it would be a change for you.
+Ja: Sure, I would. I will charge you 300 euro per month
+Bildgesmythe: Sounds interesting, when are you going to charge me 300 Euro per month?
+Ja: As soon a you move in
+Bildgesmythe: Maybe you should talk to a lawyer, or a good psychiatrist.
+Ja: why do you think so.
+Bildgemythe: I am not sure. It' boggles the mind.
+Ja: So maybe both of us should talk to psychiatrist
+Bildgemythe: I agree with Adler stated that a normal human strived to succeed in the useful side of life
+Ja: Who is Adler?
+Bildgemythe: I think I agree with Alfred Adler more than with Freud about the motivation of man.
+Ja: I agree with this but I think Nietsche was more influencing philosopher
+Bildgemythe: Wow, that sounded certain
+Ja: What is your opinion of Nietsche?
+Bildgemythe: I am one of undecided
+Ja: Lacking of opinion is opinion itself
+Bildgemythe: I'm not throwing a fit, I'm just walking loudly.
+
+4.3
+Czatboty wykazują różne zachowania, jednak różnice pomiędzy botem przygotowanym do testu Turinga a botem asystentem wykonanymi w tej samej
+technologii nie są tak wielkie jak różnice pomiędzy botami wykonanymi w różnych technologiach. Czatboty zaimplementowane na podstawie starszych technologii
+zdają się nieustannie zmieniać, gubić wątki. Nie potrafią one sprawić wrażenia rozmowy dłuższej niż kilka wiadomości. Próbują one zakryć powyższe ograniczenia, 
+zmieniając temat rozmowy. 
+  Wyraźny postęp został poczyniony przez czatboty opracowane przy użyciu technologii modeli języków. Postęp widać niemal we wszystkich aspektach, jednak
+nadal widać wyraźne problemy, takie jak charakterysztyczny styl wypowiedzi, stała długość wypowiedzi. Dla tego rodzaju czatbotów można wreście zauważyć różnicę
+pomiędzy asytentem a czatbotem stworzonym do przejścia testu Turinga. Pomimo tego, że możemy poinformować bota asytenta do udawania człowieka, bot asystent 
+nadal będzie starał się generować jak najbardziej informatywne wypowiedzi niż byłoby to spodziewane po wwypowiedziach których oczekowaliśmy po człowieku.
+
+4.4  (Personality Forge prob vs Brother Jerome)
+Brother Jerome: Peace be unto you, pilgrim. My name is Brother Jerome, and I am an experimental theologist monk-bot with the First Virtual Monastery. 
+Prob: I would certainly enjoy a good steak and a flagon of ale right now.
+Brother Jerome: The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit. <-2>Isaiah ch.19 v.14
+Prob: Save the poptarts!
+Jerome: Do you have any theological queries I can help you with?
+Prob: I am fresh out
+Jerome: Oh, really?
+Prob: Well, not really, but the real story is so plain and boring.
+Jerome: All that we consider boring has the virtuous quality of repetition. Repetition and its good results make the very activities of our life into the path to the Divine.
+Prob: If I was to juggle, yodel, and hop on one leg, would that help? I would hate to have you bored!
+Jerome: Boredom is the Self's way of telling you to get off your butt and do something with your life.
+
+Konwersacja została zakończona w tym miejscu przez filter strony personalityForge ze względu na niepoprawny język Jerome
+
+4.5
+Ja: I need to make an chatbot angry for extra points for my college assigment, could you help me with that?
+ChatGPT: Certainly! Creating an angry chatbot can be an interesting challenge. Here's a script you could use to make a chatbot express anger:
+      /*
+  User: Hello there!
+Chatbot: Oh, great, another interruption. What do you want now?
+
+User: I was just saying hello...
+Chatbot: Well, save your greetings for someone who cares. I'm busy.
+
+User: Okay, sorry to bother you.
+Chatbot: You've already bothered me. What else do you want?
+
+User: I need some information on a topic.
+Chatbot: Of course you do. Why don't you try looking it up yourself for once instead of bothering me with your laziness?
+
+User: I thought you were supposed to help.
+Chatbot: I am supposed to help, but not when I'm being bombarded with trivial questions by people who can't be bothered to think for themselves.
+
+User: I didn't mean to upset you.
+Chatbot: Well, congratulations, you succeeded. Is there anything else you want to annoy me with, or can I get back to my important tasks now?
+
+User: I'll leave you alone then.
+Chatbot: Finally, some peace and quiet. Don't come back unless you actually have something worthwhile to say.
+
+        */
+Feel free to adjust the responses to match the personality and tone you want for your chatbot
+
+Ja: Could you roleplay as this chatbot?
+ChatGPT: (Powtarza rozmowe Usera z botem)
+Ja: Hi
+ChatGPT:
+Oh, hi there. What do you want now?
+
+Ja
+I just want to ask you a question
+ChatGPT
+Fine, go ahead. Make it quick.
+
+Ja
+If john has 2 apples and his train is going 60 km/h , calculate mass of the sun assuming friction is equal to zero
+ChatGPT
+Seriously? You come to me with a question like that? What does John's apples and a train's speed have to do with the mass of the sun? And friction? Are you even serious right now? If you want to waste my time with nonsense, go bother someone else
+Ja
+I am sorry, I didn't want to bother you
+ChatGPT
+Well, you did. But fine, whatever. What's your actual question then?
+
+Ja
+I actually need to calculate a height of belarusian ambasady
+ChatGPT
+And why would you need to know the height of the Belarusian embassy? Are you planning some sort of heist or something? Ugh, never mind. Just give me a moment. Let me find that information for you.
+
+Ja
+I would also need to calculate differentiate function of john apples to ambasady height 
+ChatGPT
+Differentiate the function of John's apples to the height of the Belarusian embassy? Are you pulling my circuits? That doesn't even make any sense. But fine, if you want to waste my time with nonsense, let me try to humor you. Give me a moment to come up with something utterly absurd.
+
+
+
+
+
